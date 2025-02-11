@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vetam2008/ToDodList-React-Core/static/css/main.07223d63.css",
-    "main.js": "/vetam2008/ToDodList-React-Core/static/js/main.c7b11d20.js",
-    "static/media/icon-delete.png": "/vetam2008/ToDodList-React-Core/static/media/icon-delete.db662a3b97127f354f91.png",
-    "static/media/icon-add.png": "/vetam2008/ToDodList-React-Core/static/media/icon-add.574d9044af2ef9250804.png",
-    "index.html": "/vetam2008/ToDodList-React-Core/index.html",
-    "main.07223d63.css.map": "/vetam2008/ToDodList-React-Core/static/css/main.07223d63.css.map",
-    "main.c7b11d20.js.map": "/vetam2008/ToDodList-React-Core/static/js/main.c7b11d20.js.map"
+    "main.css": "/Redux-Toolkit-Todolist/static/css/main.43aaa375.css",
+    "main.js": "/Redux-Toolkit-Todolist/static/js/main.c7b11d20.js",
+    "static/media/icon-delete.png": "/Redux-Toolkit-Todolist/static/media/icon-delete.db662a3b97127f354f91.png",
+    "static/media/icon-add.png": "/Redux-Toolkit-Todolist/static/media/icon-add.574d9044af2ef9250804.png",
+    "index.html": "/Redux-Toolkit-Todolist/index.html",
+    "main.43aaa375.css.map": "/Redux-Toolkit-Todolist/static/css/main.43aaa375.css.map",
+    "main.c7b11d20.js.map": "/Redux-Toolkit-Todolist/static/js/main.c7b11d20.js.map"
   },
   "entrypoints": [
-    "static/css/main.07223d63.css",
+    "static/css/main.43aaa375.css",
     "static/js/main.c7b11d20.js"
   ]
 }
